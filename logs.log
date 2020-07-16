@@ -1,0 +1,516 @@
+2020-07-14 17:52:19,835 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 17:52:19,902 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 17:52:26,147 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 17:52:26,215 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 17:54:15,925 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 17:54:15,992 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 17:58:30,623 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 17:58:30,741 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 18:36:47,236 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:36:47,303 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:36:59,272 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:36:59,338 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:37:20,610 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:37:20,676 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:38:59,071 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:38:59,140 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:39:43,415 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:39:43,481 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:39:51,546 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 18:39:51,612 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 18:46:18,435 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:46:18,503 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:46:23,998 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 18:46:24,068 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 18:50:02,182 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:50:02,248 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:50:23,909 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 18:50:23,979 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 18:54:59,091 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 18:54:59,175 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 18:55:18,583 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 18:55:18,659 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 18:55:48,607 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:55:48,675 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:56:06,711 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:56:06,778 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:56:07,514 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 18:56:07,582 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 18:57:40,946 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-14 18:57:41,012 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-14 18:57:42,125 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-14 18:57:42,193 INFO c.HabrBaseTest [main] Browser closed
+2020-07-14 18:57:42,937 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-14 18:57:43,054 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:01:31,484 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 19:01:31,550 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 19:01:32,481 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 19:01:32,548 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:01:33,367 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 19:01:33,438 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:45:29,241 INFO c.HabrBaseTest [main] Main page OTUS is open
+2020-07-15 19:45:29,242 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 19:45:29,321 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:49:49,421 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 19:49:49,494 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:50:39,395 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 19:50:39,467 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:50:53,504 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 19:50:53,576 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:53:14,884 INFO c.HabrBaseTest [main] Main page OTUS is open
+2020-07-15 19:53:14,885 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 19:53:14,964 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:53:27,500 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 19:53:27,575 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:54:32,182 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 19:54:32,256 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:54:33,025 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 19:54:33,150 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:55:44,433 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 19:55:44,504 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:55:45,291 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 19:55:45,360 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:59:26,252 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 19:59:26,323 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 19:59:27,136 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 19:59:27,202 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:00:03,318 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:00:03,389 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:00:04,094 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 20:00:04,211 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:00:36,141 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:00:36,213 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:00:36,895 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 20:00:36,961 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:01:49,644 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:01:49,716 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:01:50,564 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 20:01:50,632 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:11:41,468 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 20:11:41,539 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:46:02,873 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 20:46:02,874 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 20:46:02,951 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:52:08,268 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:52:08,351 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:54:10,689 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:54:10,764 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:54:48,144 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:54:48,215 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:55:03,841 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:55:03,912 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:56:05,513 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:56:05,588 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:56:31,075 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:56:31,145 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:56:31,893 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 20:56:31,959 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:56:53,192 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:56:53,264 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:56:54,005 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 20:56:54,123 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:57:10,891 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:57:10,964 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:57:11,920 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 20:57:11,987 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:57:41,910 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 20:57:41,980 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 20:57:42,897 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 20:57:42,965 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 20:57:43,777 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 20:57:43,846 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:01:22,527 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 21:01:22,593 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 21:01:23,543 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:01:23,612 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:01:24,489 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:01:24,556 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:07:11,012 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 21:07:11,079 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 21:07:12,060 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:07:12,128 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:07:12,830 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:07:12,895 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:08:49,080 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 21:08:49,146 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 21:08:50,121 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:08:50,189 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:08:50,902 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:08:50,967 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:10:02,914 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:10:02,996 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:10:03,944 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:10:04,012 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:10:44,557 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:10:44,629 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:10:45,368 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:10:45,434 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:11:30,790 INFO c.HabrSimpleTest2 [main] Main page rambler is open
+2020-07-15 21:11:30,864 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:18:46,216 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:18:46,289 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:18:47,120 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:18:47,187 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:21:16,986 INFO c.HabrSimpleTest2 [main] Main page rambler is open
+2020-07-15 21:21:17,063 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:21:28,093 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:21:28,164 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:21:29,009 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:21:29,079 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:24:13,414 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:24:13,492 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:24:14,360 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:24:14,427 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:26:26,815 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:26:26,887 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:26:27,621 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:26:27,741 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:56:12,527 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:56:12,620 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:56:13,904 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:56:14,034 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:56:44,123 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 21:56:44,195 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 21:56:45,944 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:56:46,076 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:56:47,520 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:56:47,592 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:58:34,103 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 21:58:34,232 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 21:58:35,875 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:58:36,003 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:58:37,184 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:58:37,312 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:58:57,449 INFO c.HabrSimpleTest2 [main] Main page rambler is open
+2020-07-15 21:58:57,526 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:59:25,612 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 21:59:25,741 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 21:59:27,354 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 21:59:27,483 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 21:59:28,818 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 21:59:28,948 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:04:14,756 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 22:04:14,827 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 22:04:16,320 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 22:04:16,448 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:04:17,617 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 22:04:17,749 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:07:09,938 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 22:07:10,068 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 22:07:11,749 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 22:07:11,879 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:07:13,025 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 22:07:13,151 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:07:15,133 INFO c.RamblerSimpleTest [main] Main page rambler is open
+2020-07-15 22:07:15,260 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:09:49,950 INFO c.e.d.DemoApplicationTests [main] Browser opened
+2020-07-15 22:09:50,021 INFO c.e.d.DemoApplicationTests [main] Browser closed
+2020-07-15 22:09:51,500 INFO c.HabrBaseTest [main] Main page mail is open
+2020-07-15 22:09:51,568 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:09:53,209 INFO c.GoogleSimpleTest [main] Main page google is open
+2020-07-15 22:09:53,343 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:09:54,591 INFO c.HabrSimpleTest [main] Main page yandex is open
+2020-07-15 22:09:54,719 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:09:57,893 INFO c.RamblerSimpleTest [main] Main page rambler is open
+2020-07-15 22:09:57,962 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:13:22,109 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:13:22,109 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:13:22,189 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:14:22,841 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:14:22,842 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:14:22,919 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:29:39,044 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:29:39,045 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:29:39,715 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:29:40,840 INFO c.HabrBaseTest [main] Auth page OTUS is open
+2020-07-15 22:29:40,841 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:29:40,910 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:32:51,272 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:32:52,828 INFO c.HabrBaseTest [main] Reg page OTUS is open
+2020-07-15 22:32:52,829 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-15 22:32:52,909 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:33:37,484 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:33:38,895 INFO c.HabrBaseTest [main] Reg page OTUS is open
+2020-07-15 22:33:38,896 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-15 22:33:38,982 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:39:24,720 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:39:42,906 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:41:55,533 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:41:57,160 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-15 22:41:57,161 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-15 22:41:57,249 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:42:13,948 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:42:13,949 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:42:14,590 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:42:16,337 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 22:42:16,338 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 22:42:17,736 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:42:18,920 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-15 22:42:18,921 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-15 22:42:19,725 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:42:22,033 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-15 22:42:22,033 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-15 22:42:22,103 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 22:56:06,355 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 22:56:08,852 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 22:56:08,853 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 22:56:08,943 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:12:09,145 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:12:09,150 INFO c.HabrBaseTest [main] logo has link
+2020-07-15 23:12:10,097 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:12:11,325 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:12:11,325 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:12:12,642 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:12:13,585 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-15 23:12:13,585 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-15 23:12:14,135 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:12:15,717 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-15 23:12:15,717 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-15 23:12:15,790 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:17:16,329 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:17:16,335 INFO c.HabrBaseTest [main] logo has link
+2020-07-15 23:17:17,162 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:17:18,278 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:17:18,279 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:17:19,501 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:17:20,289 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-15 23:17:20,289 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-15 23:17:20,827 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:17:22,444 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-15 23:17:22,445 INFO c.HabrBaseTest [main] Search page HABR has maven search
+2020-07-15 23:17:22,515 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:21:23,023 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:21:24,158 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:21:24,250 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:33:25,626 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:33:27,166 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:33:27,255 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:38:01,736 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:39:49,916 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:41:06,361 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:43:19,604 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:45:16,046 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:46:29,207 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:46:30,835 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:46:31,000 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:46:31,100 INFO c.HabrBaseTest [main] Browser closed
+2020-07-15 23:47:09,248 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-15 23:47:10,799 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:47:11,021 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-15 23:47:11,125 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 13:37:34,264 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 13:37:34,266 INFO c.HabrBaseTest [main] logo has link
+2020-07-16 13:37:34,748 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 13:37:35,542 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-16 13:37:35,567 INFO c.HabrBaseTest [main] Title Вход is true
+2020-07-16 13:37:36,742 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 13:37:37,719 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-16 13:37:37,802 INFO c.HabrBaseTest [main] Title Регистарция is true
+2020-07-16 13:37:38,627 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 13:37:39,735 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 13:37:39,735 INFO c.HabrBaseTest [main] Search page HABR has maven search
+2020-07-16 13:37:39,802 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 13:46:53,945 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 13:46:55,247 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 13:46:55,338 INFO c.HabrBaseTest [main] Search page HABR has maven search
+2020-07-16 13:46:55,415 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 13:47:56,679 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 13:47:58,749 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 13:47:58,767 INFO c.HabrBaseTest [main] Search page HABR has maven search
+2020-07-16 13:47:58,842 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 13:50:00,421 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 13:51:16,193 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 13:51:39,914 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 13:51:41,929 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 13:51:41,948 INFO c.HabrBaseTest [main] Search page HABR has maven search
+2020-07-16 13:51:42,027 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 13:58:40,827 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 13:58:40,882 INFO c.HabrBaseTest [main] logo has link
+2020-07-16 13:58:40,958 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 14:11:14,725 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:11:17,351 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 14:11:35,374 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 14:13:07,289 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:13:09,424 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 14:13:15,982 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 14:18:51,321 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:18:53,257 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 14:19:02,315 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 14:20:00,999 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:20:04,025 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 14:20:34,212 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 14:21:50,945 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:21:54,021 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 14:21:54,118 INFO c.HabrBaseTest [main] Search page HABR has maven search
+2020-07-16 14:21:54,193 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 14:22:38,775 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:22:39,540 INFO c.HabrBaseTest [main] logo has link
+2020-07-16 14:22:39,950 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:22:40,639 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-16 14:22:40,705 INFO c.HabrBaseTest [main] Title Вход is true
+2020-07-16 14:22:41,672 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:22:42,110 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-16 14:22:42,196 INFO c.HabrBaseTest [main] Title Регистарция is true
+2020-07-16 14:22:42,635 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:22:44,462 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 14:22:44,483 INFO c.HabrBaseTest [main] Search page HABR has myText search
+2020-07-16 14:22:44,550 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 14:38:14,839 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 14:38:18,339 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 14:38:18,417 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:26:10,020 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:26:12,101 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:26:12,325 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:26:12,402 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:29:03,005 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:29:05,141 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:29:05,160 INFO c.HabrBaseTest [main] Search page HABR has myText search
+2020-07-16 15:29:05,234 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:29:19,099 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:29:19,159 INFO c.HabrBaseTest [main] logo has link
+2020-07-16 15:29:19,550 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:29:20,316 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-16 15:29:20,404 INFO c.HabrBaseTest [main] Title Вход is true
+2020-07-16 15:29:21,470 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:29:22,005 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-16 15:29:22,029 INFO c.HabrBaseTest [main] Title Регистарция is true
+2020-07-16 15:29:22,464 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:29:24,184 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:29:24,205 INFO c.HabrBaseTest [main] Search page HABR has myText search
+2020-07-16 15:29:24,614 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:29:26,049 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:29:26,195 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:29:26,271 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:37:42,427 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:37:44,300 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:37:44,445 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:37:44,522 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:41:13,203 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:41:14,882 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:41:15,034 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:41:15,136 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:43:29,657 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:43:31,384 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:43:31,553 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:43:31,651 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:44:01,089 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:44:03,066 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:44:03,201 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:44:03,229 INFO c.HabrBaseTest [main] Search user
+2020-07-16 15:44:03,307 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:44:18,252 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:44:18,730 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:44:18,859 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:44:29,978 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:53:01,973 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:53:05,004 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:53:05,219 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:53:14,726 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:54:30,966 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:54:32,897 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:54:32,993 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 15:54:41,856 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 15:59:35,037 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 15:59:37,698 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 15:59:38,107 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:00:08,266 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:03:46,361 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:03:49,235 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:03:49,333 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:04:02,468 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:12:56,195 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:12:58,238 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:12:58,337 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:12:58,363 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:12:58,440 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:13:13,998 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:13:14,514 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:13:14,616 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:13:14,643 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:13:14,718 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:15:09,449 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:15:11,402 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:15:11,523 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:15:11,545 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:15:11,621 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:16:37,118 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:16:39,038 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:16:39,161 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:16:39,184 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:16:39,260 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:20:46,749 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:20:49,786 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:20:49,890 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:20:49,917 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:20:49,993 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:22:30,635 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:22:32,864 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:22:33,043 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:22:33,064 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:22:33,141 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:22:53,516 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:22:54,710 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:22:55,023 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:22:55,106 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:22:55,183 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:27:14,642 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:27:16,616 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:27:16,720 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:27:16,721 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:27:16,818 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:27:53,168 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:27:55,227 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:27:55,442 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:27:55,442 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:27:55,532 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:29:04,232 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:29:05,721 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:29:05,802 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 16:29:05,824 INFO c.HabrBaseTest [main] Search user
+2020-07-16 16:29:05,901 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:45:05,360 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:45:06,149 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:45:06,425 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:47:51,199 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:47:51,341 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:47:51,466 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:51:45,528 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:51:45,608 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:51:45,798 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:53:10,262 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:53:10,349 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:53:10,496 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:54:44,506 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:54:44,661 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:54:44,790 INFO c.HabrBaseTest [main] lang popup is visible
+2020-07-16 16:54:44,868 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:55:37,999 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:55:38,168 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:55:38,276 INFO c.HabrBaseTest [main] lang popup is visible
+2020-07-16 16:55:38,350 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 16:56:32,375 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 16:56:32,482 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 16:56:32,644 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 17:00:07,376 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 17:00:07,482 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 17:00:07,562 INFO c.HabrBaseTest [main] lang popup is visible
+2020-07-16 17:00:07,637 INFO c.HabrBaseTest [main] Browser closed
+2020-07-16 17:00:47,036 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 17:00:47,061 INFO c.HabrBaseTest [main] logo has link
+2020-07-16 17:00:47,570 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 17:00:48,675 INFO c.HabrBaseTest [main] Auth page HABR is open
+2020-07-16 17:00:48,754 INFO c.HabrBaseTest [main] Title Вход is true
+2020-07-16 17:00:50,053 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 17:00:50,633 INFO c.HabrBaseTest [main] Reg page HABR is open
+2020-07-16 17:00:50,657 INFO c.HabrBaseTest [main] Title Регистарция is true
+2020-07-16 17:00:51,239 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 17:00:53,358 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 17:00:53,599 INFO c.HabrBaseTest [main] Search page HABR has myText search
+2020-07-16 17:00:54,329 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 17:00:56,901 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 17:00:57,166 INFO c.HabrBaseTest [main] Search page HABR is open
+2020-07-16 17:00:57,166 INFO c.HabrBaseTest [main] Search user
+2020-07-16 17:00:57,910 INFO c.HabrBaseTest [main] Main page HABR is open
+2020-07-16 17:00:58,069 INFO c.HabrBaseTest [main] Users page HABR is open
+2020-07-16 17:00:58,108 INFO c.HabrBaseTest [main] lang popup is visible
+2020-07-16 17:00:58,176 INFO c.HabrBaseTest [main] Browser closed
