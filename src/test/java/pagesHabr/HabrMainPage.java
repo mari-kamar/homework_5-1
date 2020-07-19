@@ -19,6 +19,8 @@ public class HabrMainPage extends HabrBasePage{
     private By usersLink = By.xpath("//h3[contains(text(),'Авторы')]");
     private By langBtn = By.xpath("//button[contains(@class, 'btn_navbar_lang')]");
     private By langPopup = By.xpath("//*[@id=\"js-lang_settings\"]/div[@class=\"popup\"]");
+    private By newsLink = By.xpath("//h3[contains(text(),'Новости')]");
+    private By postsLink = By.xpath("//h3[contains(text(),'Статьи')]");
 
     public HabrMainPage(WebDriver driver) {
         super(driver);
@@ -69,6 +71,18 @@ public class HabrMainPage extends HabrBasePage{
 
     public WebElement showLangPopup() {
         return driver.findElement(langPopup);
+    }
+
+    public HabrNewsPage news() {
+        driver.findElement(newsLink).click();
+        logger.info("News page HABR is open");
+        return new HabrNewsPage(driver);
+    }
+
+    public HabrPostsPage posts() {
+        driver.findElement(postsLink).click();
+        logger.info("Posts page HABR is open");
+        return new HabrPostsPage(driver);
     }
 
 }
